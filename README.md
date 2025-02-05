@@ -1,10 +1,10 @@
-##Games em Pauta
+GAMES EM PAUTA
 
-#Sobre o Projeto
+# Sobre o Projeto
 
 Games em Pauta é um site de reviews e avaliações de jogos, desenvolvido como parte do projeto integrador do curso de Front-End da Proz. O objetivo do site é oferecer análises detalhadas e opiniões sobre diferentes jogos, proporcionando uma experiência rica e interativa para os usuários.
 
-#Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 HTML5
 
@@ -12,7 +12,7 @@ CSS3
 
 JavaScript
 
-#Equipe de Desenvolvimento
+# Equipe de Desenvolvimento
 
 O projeto foi desenvolvido por um grupo de cinco integrantes, cada um responsável por uma página dedicada a um jogo específico:
 
@@ -26,7 +26,7 @@ Vitor Lima - Página do jogo Zelda
 
 Vivian Martins - Página do jogo The Sims 4
 
-#Funcionalidades
+# Funcionalidades
 
 Página dedicada para cada jogo, com informações detalhadas.
 
