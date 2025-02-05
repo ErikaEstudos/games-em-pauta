@@ -1,4 +1,4 @@
-## GAMES EM PAUTA
+# GAMES EM PAUTA
 
 # Sobre o Projeto
 
